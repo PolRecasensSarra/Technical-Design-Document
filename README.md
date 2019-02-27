@@ -30,11 +30,11 @@ subject Project 2, under supervision of lecturer [Ricard Pillosu](https://es.lin
 There are a lot of Technical Design Documents. Therefore, there's not one unique way to make it.
 But, there are some sections that always appear.
 
-- Introduction(Game summary and target platform)
+- Introduction
 
-- Technical goals(experimental features like unproven technologies and techniques or unique ideas)
+- Technical goals
 
-- Technical risks(technologies with which the team has never worked)
+- Technical risks
 
 - Development overview
     
@@ -88,7 +88,7 @@ But, there are some sections that always appear.
 ![](docs/visualstudio.png)
 
 ### External code
-   - External libraries and software(Brofiller)
+   - External libraries and software(Brofiller, SDL, STL...)
 
 ## Estimated schedule
 - Overall duration of the development cycle.
@@ -115,3 +115,17 @@ But, there are some sections that always appear.
 - Utilization of the UML
 
 ![](docs/UI_UML-1.png)
+
+## Graphics
+- Make sure the game has the correct dimensions, otherwise the game won't look good
+- Resolution of the platform screen(pc screen, smart phone,etc)
+- Size of the tiles
+- Texture loading(XML)
+
+![](docs/resolution.jpg)
+
+## Audio
+- It includes the audio format(.wav, .ogg, MP3...)
+- Most destacable features(audio 2D, audio 3D, control over volume,etc)
+
+![](docs/ogg.png)
