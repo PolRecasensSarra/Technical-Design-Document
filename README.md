@@ -80,15 +80,15 @@ But, there are some sections that always appear.
 #### - Development Hardware
     - List of all hardware that the company will use(if the company has already them or they need to buy)
     
-![](docs/hardware1.png)
-    
 #### - Development Software
     - List of all software that the company will use (licenses, etc.)
-    
-![](docs/visualstudio.png)
 
 #### - External code
     - External libraries and software(Brofiller)
+    
+    
+![](docs/hardware1.png)
+![](docs/visualstudio.png)
 
 ## Estimated schedule
 - Overall duration of the development cycle.
