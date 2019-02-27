@@ -59,3 +59,32 @@ But, there are some sections that always appear.
 - Don't include features that have been aleady proven by existing games, even if they are new to the development team.
 - Experimental features generally need more time in the schedule.
 - This experiments are seen as worthwhile investments to create a good renown in the future
+
+![](docs/goals.png)
+
+
+## Technical risks
+
+- Aspect of development that will cause a set back if they fail.
+- If you don't foresee any technical risks, by all means say so.
+- List technologies that, even though they function, your company has never developed or has little experience with them.
+- Every risk must have a solution.
+- It creates a comfort level because it makes the impression that the project is under control.
+![](docs/risk.png)
+
+## Development overview
+### Development team
+- People in charge of development and their tasks
+### Development environment
+- Everything the company needs to develop the game, such as infrastructure modifications to ensure that the project can be carried out.
+#### - Development Hardware
+    - List of all hardware that the company will use(if the company has already them or they need to buy)
+    
+![](docs/hardware1.png)
+    
+#### - Development Software
+    - List of all software that the company will use (licenses, etc.)
+![](docs/visualstudio.png)
+
+#### - External code
+    - External libraries and software(Brofiller)
