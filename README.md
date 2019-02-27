@@ -75,8 +75,10 @@ But, there are some sections that always appear.
 ## Development overview
 ### Development team
 - People in charge of development and their tasks
+
 ## Development environment
 - Everything the company needs to develop the game, such as infrastructure modifications to ensure that the project can be carried out.
+
 ### Development Hardware
    - List of all hardware that the company will use(if the company has already them or they need to buy)
     
