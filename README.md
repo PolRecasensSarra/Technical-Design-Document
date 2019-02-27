@@ -77,17 +77,17 @@ But, there are some sections that always appear.
 - People in charge of development and their tasks
 ## Development environment
 - Everything the company needs to develop the game, such as infrastructure modifications to ensure that the project can be carried out.
-### - Development Hardware
+### Development Hardware
    - List of all hardware that the company will use(if the company has already them or they need to buy)
     
  ![](docs/hardware1.png)
     
-### - Development Software
+### Development Software
    - List of all software that the company will use (licenses, etc.)
     
 ![](docs/visualstudio.png)
 
-### - External code
+### External code
    - External libraries and software(Brofiller)
 
 ## Estimated schedule
