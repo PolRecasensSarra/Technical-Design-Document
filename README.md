@@ -60,7 +60,7 @@ But, there are some sections that always appear.
 - Experimental features generally need more time in the schedule.
 - This experiments are seen as worthwhile investments to create a good renown in the future
 
-![](docs/goals.png)
+![](docs/goals.jpg)
 
 
 ## Technical risks
@@ -94,3 +94,16 @@ But, there are some sections that always appear.
 - It contains the estimation of: milestones, alpha, beta and gold master.
 
 ![](docs/auto_scheduling.png)
+
+## Code style guidelines
+- A code regulation will avoid confusions when programming.
+- Creates a great organization.
+- Here is an example of code style guidelines that are important in our case
+    - Naming conventions
+    - Variables
+    - Loops
+    - Conditionals
+    - Classes and structs
+    - XML
+    
+    ![](docs/samplexml.jpg)
