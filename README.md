@@ -84,6 +84,7 @@ But, there are some sections that always appear.
     
 #### - Development Software
     - List of all software that the company will use (licenses, etc.)
+    
 ![](docs/visualstudio.png)
 
 #### - External code
@@ -107,3 +108,10 @@ But, there are some sections that always appear.
     - XML
     
     ![](docs/samplexml.jpg)
+
+## Code architecture
+- It provides a wide vision of the structure of the code
+- It helps to understand the structure
+- Utilization of the UML
+
+![](docs/UI_UML-1.png)
