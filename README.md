@@ -131,3 +131,24 @@ But, there are some sections that always appear.
 - Most destacable features(audio 2D, audio 3D, control over volume,etc)
 
 ![](docs/ogg.png)
+
+
+# Important points
+
+- It sets all software and hardware that's going to be used
+- Reviewers will have the impression that the project is under control
+- It helps the programmers to have all organized
+
+# Sources
+
+[Game Design - Zero - Technical Design Document](https://github.com/GameDesign/Zero/wiki/Technical-Design-Document#Game_Summary)
+
+[The anatomy of a design document](https://www.gamasutra.com/view/feature/3384/the_anatomy_of_a_design_document_.php?print=1)
+
+[Narbacular Drop - Technical Design Document](http://www.nuclearmonkeysoftware.com/documents/narbacular_drop_technical_design_document.pdf)
+
+[DevCrumbs - Warcraft II - Technical Design Document](https://github.com/DevCrumbs/Warcraft-II/wiki/7.-Tech-Design-Document#performance-budged)
+
+[Technical Design Document](https://computergamesmmu.files.wordpress.com/2012/10/technical-design-document-final.pdf)
+
+[Technical Design Document and Game Design Document](https://www.studytonight.com/3d-game-engineering-with-unity/tdd-and-gdd)
