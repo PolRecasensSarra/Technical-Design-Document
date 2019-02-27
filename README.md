@@ -11,6 +11,39 @@ subject Project 2, under supervision of lecturer [Ricard Pillosu](https://es.lin
 
 - It specifies the technical resources that will be used.
 
-- Set up the experimental features
+- Set up the experimental features.
 
-- Development tasks
+![](docs/tdd.PNG)
+
+# WHY IS IT IMPORTANT?
+
+- Reduces wasted efforts and confusion.
+
+- It helps the team make their decisions.
+
+- Make the reviewers optimistic about the game's chance of succeeding(the project is under control).
+
+![](docs/techleader.png)
+
+# WHAT DOES IT CONTAINS?
+
+There are a lot of Technical Design Documents. Therefore, there's not one unique way to make it.
+But, there are some sections that always appear.
+
+- Introduction(Game summary and target platform)
+
+- Technical goals(experimental features like unproven technologies and techniques or unique ideas)
+
+- Technical risks(technologies with which the team has never worked)
+
+- Development overview
+    
+- Estimated schedule
+
+- Code style guidelines
+
+- Code architecture
+
+- Graphics(player screen)
+
+- Audio(format)
