@@ -47,3 +47,15 @@ But, there are some sections that always appear.
 - Graphics(player screen)
 
 - Audio(format)
+
+## Introduction
+
+- Include a game summary. Just a few lines.
+- Target platform. It must be mentioned to which platform the game is directed.
+
+## Technical goals
+
+- It includes experimental features like unproven technologies and techniques or unique ideas.
+- Don't include features that have been aleady proven by existing games, even if they are new to the development team.
+- Experimental features generally need more time in the schedule.
+- This experiments are seen as worthwhile investments to create a good renown in the future
