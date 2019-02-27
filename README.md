@@ -88,3 +88,9 @@ But, there are some sections that always appear.
 
 #### - External code
     - External libraries and software(Brofiller)
+
+## Estimated schedule
+- Overall duration of the development cycle.
+- It contains the estimation of: milestones, alpha, beta and gold master.
+
+![](docs/auto_scheduling.png)
