@@ -1,5 +1,5 @@
 # Technical Design Document
-I am Pol Recasens, student of the [Bachelor’s Degree in
+I am [Pol Recasens](https://www.linkedin.com/in/pol-recasens-sarr%C3%A0-474855180/), student of the [Bachelor’s Degree in
 Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs/). This content is generated for the second year’s
 subject Project 2, under supervision of lecturer [Ricard Pillosu](https://es.linkedin.com/in/ricardpillosu).
 
@@ -44,9 +44,9 @@ But, there are some sections that always appear.
 
 - Code architecture
 
-- Graphics(player screen)
+- Graphics
 
-- Audio(format)
+- Audio
 
 ## Introduction
 
